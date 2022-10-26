@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Spoken English",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9yJhktNOW2LFb334t2DQ3TPzkxT77WJpjg&usqp=CAU",
+        "body": "Speaking English allows you to actually broaden your world, from job opportunities to the ability to relate to people from every country. Knowing the language makes it much more interesting every trip. Anywhere you want to go in the world you can find someone who speaks English. If you would like to purchase this course, click the button below . ",
+        "enroll": 30,
+        "lesson": 70,
+        "ratting": 4.4,
+        "price": 2500
+    },
+    {
+        "id": 2,
+        "name": "IELTS",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fdiscover%2Fielts-speaking-gifs&psig=AOvVaw2mM9ALrEE6qcbBKU-mvJaX&ust=1666722372340000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNCh7Oq--foCFQAAAAAdAAAAABAE",
+        "body": "If you wish to study, live, or work in an English-speaking country, you'll need to take IELTS. Almost every program offered by universities would accept a score of 7 or higher. A good IELTS score can also help you get more points on the points exam and apply for different visas. If you would like to purchase this course, click the button below .",
+        "enroll": 20,
+        "lesson": 50,
+        "ratting": 4.6,
+        "price": 10000
+    },
+    {
+        "id": 3,
+        "name": "Learn Quran",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.postermywall.com%2Findex.php%2Fposters%2Fsearch%3Fs%3Dlearn%2520quran&psig=AOvVaw3shTycYfj3Lz7h0kuhWRN_&ust=1666722464921000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPCgxpa_-foCFQAAAAAdAAAAABAE",
+        "body": "Learning the Quran is a very important act in Islam that brings invaluable rewards from Allah (SWT). Entirely, it is one of the best things to do to earn good deeds, get closer to Allah (SWT), and enter Jannah (Paradise). If you would like to purchase this course, click the button below .",
+        "enroll": 7,
+        "lesson": 23,
+        "ratting": 4.1,
+        "price": 2000
+    },
+    {
+        "id": 4,
+        "name": "Drawing & Painting",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reviewgeek.com%2F72871%2Fthe-best-youtube-channels-for-learning-how-to-draw%2F&psig=AOvVaw29v4exOP0wPyjyKiEe0Hki&ust=1666722533731000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCAp7e_-foCFQAAAAAdAAAAABAF",
+        "body": "Learning to draw and sketch acts as paramount to your journey of becoming an artist. Sketching would help you identify your style and would also enlighten you on various other critical aspects which is required during painting such as shape, form, light, and shadow. If you would like to purchase this course, click the button below .",
+        "enroll": 10,
+        "lesson": 32,
+        "ratting": 4.3,
+        "price": 3000
+    },
+    {
+        "id": 5,
+        "name": "Beautiful & Fast Hand Writing",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreativemarket.com%2Fblog%2Fimprove-handwriting-challenge&psig=AOvVaw1LRcg9N1wRKPBO5VXz31VM&ust=1666722675804000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNDdnPu_-foCFQAAAAAdAAAAABAE",
+        "body": "Improving your handwriting speed can have significant benefits, such as increased automaticity, increased overlap between mental generation of output and the consequent production of text, and improved performance in academic tasks. If you would like to purchase this course, click the button below .",
+        "enroll": 13,
+        "lesson": 25,
+        "ratting": 4.5,
+        "price": 1500
+    },
+    {
+        "id": 6,
+        "name": "Job Preparation Guideline",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fguide2sucess.com%2Fjob-preparation%2F&psig=AOvVaw2Y0WB8zjMso3bwkync5F2e&ust=1666722767487000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOiV16bA-foCFQAAAAAdAAAAABAO",
+        "body": "The most important step to landing a job is being prepared for your interviews. By doing some preparation you'll feel more in control, and will appear cool, calm and collected as a result to your prospective employers – qualities always looked for in the perfect candidate. If you would like to purchase this course, click the button below .",
+        "enroll": 45,
+        "lesson": 120,
+        "ratting": 4.6,
+        "price": 5000
+    }
+]
